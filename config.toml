@@ -28,7 +28,7 @@ dateFormatSingle = "2006-01-02"
 dateFormatList = "2006-01-02"
 
 [languages.en.params.logo]
-logoText = "hello friend"
+logoText = "moayad"
 logoHomeLink = "/"
 
 [[languages.en.menu.main]]
